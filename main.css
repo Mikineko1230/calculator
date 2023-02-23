@@ -1,0 +1,25 @@
+#result{
+  background-color: black;
+  color: white;
+  text-align: end;
+  width: 600px;
+  height: 70px;
+  font-size: 40px;
+  margin-bottom: 4px;
+    }
+
+    button{
+  font-size: 20px;
+  width: 145px;
+  height: 50px;
+  margin-bottom: 3px;
+  border-radius: 10px;
+    }
+
+    .under-button {
+  font-size: 20px;
+  width: 290px;
+  height: 50px;
+  border-radius: 10px;
+    }
+    
